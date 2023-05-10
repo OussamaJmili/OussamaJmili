@@ -1,6 +1,6 @@
 # Hi, I'm Oussama! 👋
 
-[![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME)](https://github.com/OussamaJmili)
+[![Profile views](https://komarev.com/ghpvc/?username=OussamaJmili)](https://github.com/OussamaJmili)
 
 ## My GitHub Stats 📊
 
