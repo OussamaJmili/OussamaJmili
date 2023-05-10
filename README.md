@@ -6,9 +6,9 @@
 
 ![YOUR_USERNAME's GitHub stats](https://github-readme-stats.vercel.app/api?username=OussamaJmili&show_icons=true&theme=radical)
 
-## 🔭 My Most Used Languages
+## My Most Used Languages 💻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact)](https://github.com/username/username)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OussamaJmili&layout=compact)](https://github.com/OussamaJmili)
 
 ## ⚡ GitHub Streak
 
