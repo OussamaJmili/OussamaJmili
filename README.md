@@ -1,10 +1,10 @@
-# Hi, I'm [Oussama]! 👋
+# Hi, I'm Oussama! 👋
 
-[![Profile views](https://gpvc.arturio.dev/username)](https://github.com/username/username)
+[![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME)](https://github.com/OussamaJmili)
 
-## 📈 My GitHub Stats
+## My GitHub Stats 📊
 
-![username's GitHub stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true)
+![YOUR_USERNAME's GitHub stats](https://github-readme-stats.vercel.app/api?username=OussamaJmili&show_icons=true&theme=radical)
 
 ## 🔭 My Most Used Languages
 
