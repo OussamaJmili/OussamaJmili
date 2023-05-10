@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi, I'm [Oussama]! 👋
 
-<!--
-**OussamaJmili/OussamaJmili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Profile views](https://gpvc.arturio.dev/username)](https://github.com/username/username)
 
-Here are some ideas to get you started:
+## 📈 My GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![username's GitHub stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true)
+
+## 🔭 My Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact)](https://github.com/username/username)
+
+## ⚡ GitHub Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=username)](https://github.com/username/username)
+
+## 👨‍💻 Total Contributions
+
+[![username's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=username)](https://github.com/username/username)
+
+## 🎖 Badges
+
+![GitHub followers](https://img.shields.io/github/followers/username?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/username?style=social)
+
