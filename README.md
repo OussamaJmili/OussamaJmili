@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oussamaJmili" alt="oussamajmili" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [oussamajmili.com](oussamajmili.com)
+- 👨‍💻 All of my projects are available at [oussamajmili.com](https://oussamajmili.com)
 
 - 📫 How to reach me **oussamajmili16@gmail.com**
 
